@@ -1,1 +1,1 @@
-echo "server localhost to copy"
+echo "Localhost to copy"
